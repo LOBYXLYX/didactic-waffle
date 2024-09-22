@@ -1,4 +1,4 @@
-# need
+# Need
 Kogama accounts (on format ***username:password***)
 Proxies
 
