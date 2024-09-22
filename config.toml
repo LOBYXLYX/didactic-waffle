@@ -1,0 +1,3 @@
+[config]
+max_threads = 45
+play_per_account = 1
